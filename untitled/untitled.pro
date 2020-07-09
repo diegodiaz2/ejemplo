@@ -24,6 +24,7 @@ SOURCES += \
 HEADERS += \
     as.h \
     asad.h \
+    diegomamahuevo.h \
     mainwindow.h
 
 FORMS += \
