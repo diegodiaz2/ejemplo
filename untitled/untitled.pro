@@ -18,6 +18,7 @@ DEFINES += QT_DEPRECATED_WARNINGS
 SOURCES += \
     as.cpp \
     asad.cpp \
+    asdasdasdasdasd.cpp \
     main.cpp \
     mainwindow.cpp
 
