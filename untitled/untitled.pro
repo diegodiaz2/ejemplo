@@ -17,11 +17,13 @@ DEFINES += QT_DEPRECATED_WARNINGS
 
 SOURCES += \
     as.cpp \
+    asad.cpp \
     main.cpp \
     mainwindow.cpp
 
 HEADERS += \
     as.h \
+    asad.h \
     mainwindow.h
 
 FORMS += \
